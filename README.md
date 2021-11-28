@@ -54,3 +54,12 @@ SSL Certificate
 
 # Structured Query Language (SQL)
 [Solution](https://github.com/c-varelas/SP_Tech_Tests/tree/main/SQL)
+
+# JSON
+[Solution](https://github.com/c-varelas/SP_Tech_Tests/tree/main/JSON)
+
+# Scripting Languages
+[Solution](https://github.com/c-varelas/SP_Tech_Tests/tree/main/Scripting_Languages)
+
+# Web technologies (HTML & Javascript)
+[Solution](https://github.com/c-varelas/SP_Tech_Tests/tree/main/html_js_test) | [Live Demo](https://cranky-bohr-96f7d2.netlify.app/)
