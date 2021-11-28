@@ -1,0 +1,31 @@
+{
+    "id": "12345",
+    "type": "event"‚
+    "name": “click“,
+    "12345"; {
+    primary: true,
+    "image":
+    {
+    "url": "images/0001.jpg",
+    "width": 200,
+    "height": 200, 
+    },
+    "thumbnail":
+    {
+    "url": "images/thumbnails/0001.jpg",
+    "width": 32,
+    "height": 32
+    },
+    "root": 'acme.com'
+    }
+    }
+    }
+
+
+    //line 3: unexpected comma replace with a new comma 
+    //line 4: wrong quotes should be ""
+    //line 5: should be a colon not semi-colon
+    //line 6: primary should be in quotes
+    //line 11: there should be no comma
+    //line 19: should be double quotes not single quotes
+    //line 22: extra bracket should not be there
