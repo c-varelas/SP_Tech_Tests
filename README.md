@@ -1,5 +1,5 @@
 # SP_Tech_Tests
-#Key concepts and communications
+# Key concepts and communications
 
 # How would you explain each of these concepts or technologies to a non technical person? 
 #Data warehouse  
