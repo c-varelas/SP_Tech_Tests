@@ -50,3 +50,7 @@ SSL Certificate
 - 
 ## Are the certificates installed with https://snowplowanalytics.com and https:// discourse.snowplowanalytics.com the same? Why? 
 - Yes, they are both the same certificates. Since R3 is an intermediate certificate it allows for two certificates representing under the same key. This is possible because R3 certificates allow for cross-signing. 
+
+
+# Structured Query Language (SQL)
+[Solution](https://github.com/c-varelas/SP_Tech_Tests/tree/main/SQL)
