@@ -1,7 +1,7 @@
 # SP_Tech_Tests
 #**Key concepts and communications**
 
-•## How would you explain each of these concepts or technologies to a non technical person? 
+## How would you explain each of these concepts or technologies to a non technical person? 
 ◦ Data warehouse  
 A data warehouse is a type of data management system designed to analyze, organize, and report information directed towards business. This help business to keep track and gain insight to improve any decision-making. 
 
