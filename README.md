@@ -39,14 +39,13 @@ A data warehouse is a type of data management system designed to analyze, organi
 - The company that manages emails for snowplowanalytics is https://www.ionos.com/
 SSL Certificate 
 
-## Who issued SSL certificate installed for https://snowplowanalytics.com?  •
+## Who issued SSL certificate installed for https://snowplowanalytics.com? 
 - R3 issued SSL certificate for snowplowanalytics.
 
 ## When does the certificate expire?  
 - The certificate expires on February 02, 2022.
 - 
-## Is the certificate valid if installed for the website https:// 
-discourse.snowplowanalytics.com? Why?  
+## Is the certificate valid if installed for the website https://discourse.snowplowanalytics.com? Why?  
 - Yes, this certificate is vailed if it is installed in the subdomain name. This is because R3 is an intermediate certificate meaning it is a subordinate issued by a trusted rooted certificate authority. 
 - 
 ## Are the certificates installed with https://snowplowanalytics.com and https:// discourse.snowplowanalytics.com the same? Why? 
